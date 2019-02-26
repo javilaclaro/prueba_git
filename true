@@ -1,0 +1,164 @@
+[-neE] [arg ...] time [-p] pipelinegit status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	img/
+	index.html
+	true
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	img/
+	index.html
+	true
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   img/estilos.css
+	new file:   index.html
+	new file:   true
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   true
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   img/estilos.css
+	new file:   index.html
+	new file:   true
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    img/estilos.css
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+
+Reinitialized existing Git repository in C:/Users/KOS-MOS/Downloads/pruebas_git/.git/
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   img/estilos.css
+	new file:   index.html
+	new file:   true
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    img/estilos.css
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   img/estilos.css
+	new file:   index.html
+	new file:   true
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    img/estilos.css
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+
+[master (root-commit) 71d2b7e] primer commit
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 img/estilos.css
+ create mode 100644 index.html
+ create mode 100644 true
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    img/estilos.css
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    img/estilos.css
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	deleted:    img/estilos.css
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   index.html
+	modified:   true
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	estilos.css
+	pagina2.html
+
